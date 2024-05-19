@@ -12,6 +12,7 @@ public static void main(String args[])
      ticTac.play(0,1);
      ticTac.play(0,2);
      ticTac.play(1,1);
+     
      ticTac.play(1,0);
      ticTac.play(2,1);
      ticTac.play(2,2);
